@@ -4,6 +4,7 @@
 - git
   * [sourceTree](https://www.sourcetreeapp.com/)
   * [git Downloads](https://git-scm.com/)
+  * [Download list GUI TOOLS](https://git-scm.com/downloads/guis)
 
 
 ## 任务分配
